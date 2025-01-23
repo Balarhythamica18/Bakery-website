@@ -1,0 +1,32 @@
+.app-download {
+    margin: auto;
+    margin-top: 100px;
+    font-size: max(3vw, 20px);
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 10px; /* Rounded corners for a soft, modern look */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    margin-bottom: 30px;
+  }
+  
+  .app-download p {
+    font-size: max(1vw, 24px); /* Larger font size for better readability */
+    font-weight: 600;
+    line-height: 1.5;
+    color: #e84393;
+   
+  
+  }
+  
+  .app-download-platforms img{
+    height:200px;
+    width:420px;
+  
+  }
+ 
+
+  
+  
